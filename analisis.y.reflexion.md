@@ -20,14 +20,23 @@ Para que tu portafolio sea efectivo, puedes seguir estos tips:
 
 ## Análisis de ejemplos reales
 
-TODO Encuentra al menos dos ejemplos de portafolios en línea. (claridad+organización, diseño+navegación, variedad+calidad de proyectos, herramientas usadas)
+### 1. Magda, compañera del bootcamp
 
-- Magda
-- Midudev
+https://magdaig.github.io/portafoliojs/index.html
+
+Es muy atractivo visualmente, con colores vivos y un diseño moderno. La navegación es sencilla, con un menú claro en la parte superior que permite acceder fácilmente a las diferentes secciones del portafolio. La variedad de proyectos es buena, mostrando tanto trabajos personales como colaborativos, y cada proyecto incluye una descripción detallada de las tecnologías utilizadas y el proceso de desarrollo. Magda utilizó HTML, CSS y JavaScript para construir su portafolio, lo que demuestra sus habilidades técnicas.
+
+### 2. Midudev
+
+https://github.com/midudev
+
+Básicamente, porque utiliza su cuenta de GitHub como un Hub para concentrar toda su presencia online. La organización es clara, con repositorios bien etiquetados y documentados, lo que facilita la navegación y comprensión de sus proyectos. La variedad de proyectos es amplia, abarcando desde aplicaciones web hasta tutoriales y recursos educativos, todos ellos de alta calidad y relevancia en el ámbito del desarrollo web. Midudev aprovecha al máximo las funcionalidades de GitHub, como los README.md detallados y las GitHub Pages para alojar demos de sus proyectos.
 
 ## Diseño de tu propio portafolio
 
-TODO idea...
+Buscando templates que activen mi imaginación, me gustó este diseño:
+
+![Boceto de portafolio](./boceto.png)
 
 ## Exploración de herramientas para la construcción
 

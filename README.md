@@ -48,7 +48,7 @@ El objetivo de esta actividad es comprender la importancia de contar con un port
 - Escribe una conclusión de al menos 100 palabras donde reflexiones sobre la importancia de un portafolio de productos en tu desarrollo profesional.
 - Adjunta tu boceto de portafolio y el análisis de ejemplos en un documento y entrégalo en el formato solicitado por tu instructor.
 
--------
+---------
 
 - Puedes leer mi análisis y reflexión [**acá**](./analisis.y.reflexion.md).
-- Puedes observar mi boceto [**acá**](./boceto.md).
+- Puedes observar mi boceto [**acá**](./boceto.png).
